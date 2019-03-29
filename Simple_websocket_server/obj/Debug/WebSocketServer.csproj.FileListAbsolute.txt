@@ -1,0 +1,7 @@
+C:\Users\Michał\source\repos\Simple_websocket_server\Simple_websocket_server\bin\Debug\Simple_websocket_server.exe.config
+C:\Users\Michał\source\repos\Simple_websocket_server\Simple_websocket_server\bin\Debug\Simple_websocket_server.exe
+C:\Users\Michał\source\repos\Simple_websocket_server\Simple_websocket_server\bin\Debug\Simple_websocket_server.pdb
+C:\Users\Michał\source\repos\Simple_websocket_server\Simple_websocket_server\obj\Debug\WebSocketServer.csprojAssemblyReference.cache
+C:\Users\Michał\source\repos\Simple_websocket_server\Simple_websocket_server\obj\Debug\WebSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Michał\source\repos\Simple_websocket_server\Simple_websocket_server\obj\Debug\Simple_websocket_server.exe
+C:\Users\Michał\source\repos\Simple_websocket_server\Simple_websocket_server\obj\Debug\Simple_websocket_server.pdb
